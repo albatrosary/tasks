@@ -42,9 +42,16 @@ $ npm i --save-dev gulp-load-plugins
 ### typings dev
 
 ```bash
-typings i --save --ambient node
 typings i --save --ambient es6-promise
-typings i --save --ambient orchestrator
 typings i --save --ambient gulp
+typings i --save --ambient node
+typings i --save --ambient orchestrator
 typings i --save --ambient q
+```
+
+###
+
+```bash
+npm install --save-dev tslint
+npm install --save-dev gulp-tslint
 ```

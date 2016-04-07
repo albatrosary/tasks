@@ -23,10 +23,12 @@
     "es6-shim": "^0.35.0",
     "gulp": "^3.9.1",
     "gulp-load-plugins": "^1.2.0",
+    "gulp-tslint": "^4.3.4",
     "gulp-typescript": "^2.12.2",
     "lite-server": "^2.2.0",
     "require-dir": "^0.3.0",
     "ts-node": "^0.7.1",
+    "tslint": "^3.7.1",
     "typescript": "^1.8.9",
     "typings": "^0.7.12"
   }
