@@ -1,3 +1,5 @@
+/// <reference path="../../typings/main.d.ts"/>
+
 import * as gulp from 'gulp';
 import tslint from "gulp-tslint";
  

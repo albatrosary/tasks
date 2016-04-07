@@ -18,7 +18,7 @@ $ npm install -g gulp-cli
 ### typescript
 
 ```bash
-$ npm install -g typings, typescript
+$ npm install -g typings typescript
 $ typings init
 $ tsc --init
 ```
@@ -56,6 +56,12 @@ npm install --save-dev tslint
 npm install --save-dev gulp-tslint
 ```
 
+### gulp-util
+
 ```bash
 npm install --save-dev gulp-util
+typings i --save --ambient gulp-util
+typings i --save --ambient vinyl
+typings i --save --ambient chalk
+typings i --save --ambient through2
 ```

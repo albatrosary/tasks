@@ -1,5 +1,7 @@
+/// <reference path="../../typings/main.d.ts"/>
+
 import * as gulp from 'gulp';
-const gulputil = require('gulp-util');
+import * as gulputil from 'gulp-util';
 
 gulp.task('default', () => {
   gulputil.log('**********************');
