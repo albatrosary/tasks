@@ -55,3 +55,7 @@ typings i --save --ambient q
 npm install --save-dev tslint
 npm install --save-dev gulp-tslint
 ```
+
+```bash
+npm install --save-dev gulp-util
+```
