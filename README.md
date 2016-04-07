@@ -39,7 +39,7 @@ $ npm i --save-dev gulp-load-plugins
 
 ```
 
-### typings dev
+### typings
 
 ```bash
 typings i --save --ambient es6-promise
@@ -49,7 +49,7 @@ typings i --save --ambient orchestrator
 typings i --save --ambient q
 ```
 
-###
+### tslint
 
 ```bash
 npm install --save-dev tslint
