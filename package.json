@@ -18,5 +18,16 @@
   "author": "Fumio SAGAWA",
   "license": "MIT",
   "devDependencies": {
+    "concurrently": "^2.0.0",
+    "es6-promise": "^3.1.2",
+    "es6-shim": "^0.35.0",
+    "gulp": "^3.9.1",
+    "gulp-load-plugins": "^1.2.0",
+    "gulp-typescript": "^2.12.2",
+    "lite-server": "^2.2.0",
+    "require-dir": "^0.3.0",
+    "ts-node": "^0.7.1",
+    "typescript": "^1.8.9",
+    "typings": "^0.7.12"
   }
 }
